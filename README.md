@@ -1,2 +1,2 @@
 # College-Mini-Project
-This is a mini-project made by me on Emotion Recognition
+PAPER.pdf is the research paper used to build this project
