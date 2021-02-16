@@ -7,5 +7,4 @@ https://github.com/PiyushSawarkar/College-Mini-Project/blob/master/report-phase1
 #PHASE - 2\
 Report Phase 2 is the Report of the Project for phase-2\
 https://github.com/PiyushSawarkar/College-Mini-Project/blob/master/Project.docx \
-(in pdf) \
-https://github.com/PiyushSawarkar/College-Mini-Project/blob/master/Project.pdf \
+(in pdf-->) https://github.com/PiyushSawarkar/College-Mini-Project/blob/master/Project.pdf 
